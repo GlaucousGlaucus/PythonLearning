@@ -1,0 +1,18 @@
+{
+
+  "admins": [
+    {
+      "id": 1,
+      "name": "Nexorel",
+      "type": "Organic",
+      "special": "Eh"
+    },
+    {
+      "id": 2,
+      "name": "Aperture Employee Guardian and Intrusion System (AEGIS)",
+      "type": "Mechanical",
+      "special": "Central Core"
+    }
+  ]
+
+}
